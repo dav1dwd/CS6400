@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T01:45:31.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8SJt35q8IKoktkipGSmA" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T06:33:42.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="v2ru1iNoFHwr-qLfdHKT" version="21.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1215" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
             <mxPoint x="574" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uV2LBQL4sui9GxUohKkc-27" value="View Status Update" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uV2LBQL4sui9GxUohKkc-27" value="View Parts Status" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364.5" y="520" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uV2LBQL4sui9GxUohKkc-31" value="Login&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="uV2LBQL4sui9GxUohKkc-36" value="Vehicle Search/Result" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="40" width="111" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uV2LBQL4sui9GxUohKkc-37" value="Vehicle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uV2LBQL4sui9GxUohKkc-37" value="Add Vehicle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="710" y="50" width="111" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uV2LBQL4sui9GxUohKkc-38" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="uV2LBQL4sui9GxUohKkc-50" value="Part Statistic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="400" width="111" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uV2LBQL4sui9GxUohKkc-51" value="View Parts" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uV2LBQL4sui9GxUohKkc-51" value="Parts Vendor Pricing" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="311" y="385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uV2LBQL4sui9GxUohKkc-54" value="Inventory&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -248,13 +248,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uV2LBQL4sui9GxUohKkc-98" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="272" y="174" width="632" height="514" as="geometry" />
+          <mxGeometry x="273" y="168" width="632" height="514" as="geometry" />
         </mxCell>
         <mxCell id="uV2LBQL4sui9GxUohKkc-99" value="Seller History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="123" y="150" width="111" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uV2LBQL4sui9GxUohKkc-100" value="All vehicles bought/sellers" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="369" y="254" width="80" height="60" as="geometry" />
+          <mxGeometry x="352" y="280" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uV2LBQL4sui9GxUohKkc-101" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uV2LBQL4sui9GxUohKkc-7" target="uV2LBQL4sui9GxUohKkc-100" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
